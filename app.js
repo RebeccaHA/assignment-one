@@ -1,6 +1,6 @@
 const app = Vue.createApp({
   data() {
-    return { name: "name", age: 18, image: "dog.jpeg" };
+    return { name: "Becky", age: 18, image: "dog.jpeg" };
   },
   methods: {
     agePlus5() {
